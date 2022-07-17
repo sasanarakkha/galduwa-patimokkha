@@ -39,7 +39,7 @@
   - [[#covertitle-3][Cover/Title]]
   - [[#in-brief][In Brief]]
   - [[#burmese-pubbakicca][Burmese Pubbakicca]]
-  - [[#sri-kaḷyāṇi-yogāshrama-saṃsṭhāva-pubbakicca][Sri Kaḷyāṇi Yogāshrama Saṃsṭhāva Pubbakicca]]
+  - [[#sri-kaḷyāṇi-yogāshrama-saṁsṭhāva-pubbakicca][Sri Kaḷyāṇi Yogāshrama Saṁsṭhāva Pubbakicca]]
 
 * Pāli
 ** Cover/Title
@@ -87,7 +87,7 @@ Pubbakaraṇapubbakiccāni samāpetvā desitāpattikassa samaggassa bhikkhusaṅ
 \section{Nidān'uddeso}
 \label{nidan'uddeso}
 
-Suṇātu me bhante / āvuso saṅgho, ajj'uposatho pannaraso / cātuddaso / sāmaggo, yadi saṅghassa pattakallaṁ, saṅgho uposathaṁ kareyya pātimokkhaṁ uddiseyya.
+Suṇātu me bhante / āvuso saṅgho, ajj'uposatho paṇṇaraso / cātuddaso / sāmaggo, yadi saṅghassa pattakallaṁ, saṅgho uposathaṁ kareyya pātimokkhaṁ uddiseyya.
 
 Kiṁ saṅghassa pubbakiccaṁ?
 
@@ -98,7 +98,7 @@ Yathā kho pana paccekapuṭṭhassa veyyākaraṇaṁ hoti, evamevaṁ evarūp�
 \medskip
 
 \begin{center}
-Uddiṭṭhaṃ kho āyasmanto nidānaṃ.
+Uddiṭṭhaṁ kho āyasmanto nidānaṁ.
 
 \smallskip
 
@@ -108,11 +108,11 @@ Tatiyam'pi pucchāmi: Kacci'ttha parisuddhā?
 
 \smallskip
 
-Parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṁ dhārayāmī'ti.
+Parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṁ dhārayāmi.
 \end{center}
 
 \begin{outro}
-  Nidānaṃ niṭṭhitaṃ
+  nidānuddeso paṭhamo
 \end{outro}
 
 \clearpage
@@ -134,7 +134,7 @@ Parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṁ dhārayāmī'ti.
 \pdfbookmark[2]{Pārājika 1}{par1}
 \subsection*{\hyperref[disq1]{Pārājika 1: Methunadhammasikkhāpadaṁ}}
 \label{par1}
-Yo pana bhikkhu bhikkhūnaṁ sikkhāsājīvasamāpanno sikkhaṁ appaccakkhāya dubbalyaṁ anāvikatvā methunaṁ dhammaṁ paṭiseveyya, antamaso tiracchānagatāyapi, pārājiko hoti asaṁvāso.
+Yo pana bhikkhu bhikkhūnaṁ sikkhāsājīvasamāpanno sikkhaṁ apaccakkhāya dubbalyaṁ anāvikatvā methunaṁ dhammaṁ patiseveyya, antamaso tiracchānagatāyapi, pārājiko hoti asaṁvāso.
 
 #+end_src
 
@@ -154,7 +154,7 @@ Yo pana bhikkhu gāmā vā araññā vā adinnaṁ theyyasaṅkhātaṁ ādiyeyy
 \pdfbookmark[2]{Pārājika 3}{par3}
 \subsection*{\hyperref[disq3]{Pārājika 3: Manussaviggahasikkhāpadaṁ}}
 \label{par3}
-Yo pana bhikkhu sañcicca manussaviggahaṁ jīvitā voropeyya, satthahārakaṁ vāssa pariyeseyya, maraṇavaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya “ambho purisa kiṁ tuyhiminā pāpakena dujjīvitena, mataṁ te jīvitā seyyo”ti, iti cittamano cittasaṅkappo anekapariyāyena maraṇavaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya, ayam'pi pārājiko hoti asaṁvāso.
+Yo pana bhikkhu sañcicca manussaviggahaṁ jīvitā voropeyya, satthahārakaṁ vāssa pariyeseyya, maraṇavaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya “ambho purisa kiṁ tuyhiminā pāpakena dujjīvitena, matan'te jīvitā seyyo”ti, iti cittamano cittasaṅkappo anekapariyāyena maraṇavaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya, ayam'pi pārājiko hoti asaṁvāso.
 
 #+end_src
 
@@ -165,7 +165,7 @@ Yo pana bhikkhu sañcicca manussaviggahaṁ jīvitā voropeyya, satthahārakaṁ
 \pdfbookmark[2]{Pārājika 4}{par4}
 \subsection*{\hyperref[disq4]{Pārājika 4: Uttarimanussadhammasikkhāpadaṁ}}
 \label{par4}
-Yo pana bhikkhu anabhijānaṁ uttarimanussadhammaṁ attupanāyikaṁ alamariyañāṇadassanaṁ samudācareyya “iti jānāmi, iti passāmī”ti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā āpanno visuddhāpekkho evaṁ vadeyya “ajānamevaṁ āvuso avacaṁ jānāmi, apassaṁ passāmi, tucchaṁ musā vilapin'ti, aññatra adhimānā, ayam'pi pārājiko hoti asaṁvāso.
+Yo pana bhikkhu anabhijānaṁ uttarimanussadhammaṁ att'ūpanāyikaṁ alamariyañāṇadassanaṁ samudācareyya “iti jānāmi, iti passāmī”ti, tato aparena samayena samanuggāhiyamāno vā asamanuggāhiyamāno vā āpanno visuddhāpekkho evaṁ vadeyya “ajānamevaṁ āvuso avacaṁ jānāmi, apassaṁ passāmi, tucchaṁ musā vilapin'ti, aññatra adhimānā, ayam'pi pārājiko hoti asaṁvāso.
 
 #+end_src
 
@@ -185,11 +185,11 @@ Tatiyam'pi pucchāmi: Kacci'ttha parisuddhā?
 
 \smallskip
 
-Parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṁ dhārayāmī'ti.
+Parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṁ dhārayāmi.
 \end{center}
 
 \begin{outro}
-Pārājikaṁ niṭṭhitaṁ
+Pārājik'uddeso dutiyo 
 \end{outro}
 
 \clearpage
@@ -197,7 +197,7 @@ Pārājikaṁ niṭṭhitaṁ
 #+end_src
 
 ** Saṅghādises'uddeso
-*** Saṅghādisesa 1: Sukkavissaṭṭhisikkhāpadaṁ
+*** Saṅghādisesa 1: sukkavisaṭṭhisikkhāpadaṁ
 #+begin_src latex :tangle ./manuscript/tex/pali/sanghadisesa.tex
 
 \setsecheadstyle{\sectionFmt}
@@ -209,9 +209,9 @@ Pārājikaṁ niṭṭhitaṁ
 \end{intro}
 
 \pdfbookmark[2]{Saṅghādisesa 1}{sd1}
-\subsection*{\hyperref[comm1]{Saṅghādisesa 1: Sukkavissaṭṭhisikkhāpadaṁ}}
+\subsection*{\hyperref[comm1]{Saṅghādisesa 1: sukkavisaṭṭhisikkhāpadaṁ}}
 \label{sd1}
-Sañcetanikā sukkavissaṭṭhi aññatra supinantā saṅghādiseso.
+Sañcetanikā sukkavisaṭṭhi aññatra supinantā saṅghādiseso.
 
 #+end_src
 
@@ -221,7 +221,7 @@ Sañcetanikā sukkavissaṭṭhi aññatra supinantā saṅghādiseso.
 \pdfbookmark[2]{Saṅghādisesa 2}{sd2}
 \subsection*{\hyperref[comm2]{Saṅghādisesa 2: Kāyasaṁsaggasikkhāpadaṁ}}
 \label{sd2}
-Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṁ kāyasaṁsaggaṁ samāpajjeyya hatthaggāhaṁ vā veṇiggāhaṁ vā aññatarassa vā aññatarassa vā aṅgassa parāmasanaṁ, saṅghādiseso.
+Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṁ kāyasaṁsaggaṁ samāpajjeyya hatthagāhaṁ vā veṇigāhaṁ vā aññatarassa vā aññatarassa vā aṅgassa parāmasanaṁ, saṅghādiseso.
 
 #+end_src
 
@@ -231,7 +231,7 @@ Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṁ kāyasa
 \pdfbookmark[2]{Saṅghādisesa 3}{sd3}
 \subsection*{\hyperref[comm3]{Saṅghādisesa 3: Duṭṭhullavācāsikkhāpadaṁ}}
 \label{sd3}
-Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmaṁ duṭṭhullāhi vācāhi obhāseyya yathā taṁ yuvā yuvatiṁ meth'unupasaṁhitāhi, saṅghādiseso.
+Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmaṁ duṭṭhullāhi vācāhi obhāseyya yathā taṁ yuvā yuvatiṁ methun'ūpasaṁhitāhi, saṅghādiseso.
 
 #+end_src
 
@@ -241,7 +241,7 @@ Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmaṁ duṭṭhullāhi
 \pdfbookmark[2]{Saṅghādisesa 4}{sd4}
 \subsection*{\hyperref[comm4]{Saṅghādisesa 4: Attakāmapāricariyasikkhāpadaṁ}}
 \label{sd4}
-Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmassa santike attakāmapāricariyāya vaṇṇaṁ bhāseyya “etad'aggaṁ bhagini pāricariyānaṁ yā mādisaṁ sīlavantaṁ kalyāṇadhammaṁ brahmacāriṁ etena dhammena paricareyyā”ti meth'unupasaṁhitena, saṅghādiseso.
+Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmassa santike attakāmapāricariyāya vaṇṇaṁ bhāseyya “etad'aggaṁ bhagini pāricariyānaṁ yā mādisaṁ sīlavantaṁ kalyāṇadhammaṁ brahmacāriṁ etena dhammena paricareyyā”ti methun'ūpasaṁhitena, saṅghādiseso.
 
 #+end_src
 
@@ -261,7 +261,7 @@ Yo pana bhikkhu sañcarittaṁ samāpajjeyya itthiyā vā purisamatiṁ purisass
 \pdfbookmark[2]{Saṅghādisesa 6}{sd6}
 \subsection*{\hyperref[comm6]{Saṅghādisesa 6: Kuṭikārasikkhāpadaṁ}}
 \label{sd6}
-Saññācikāya pana bhikkhunā kuṭiṁ kārayamānena assāmikaṁ att'uddesaṁ pamāṇikā kāretabbā, tatridaṁ pamāṇaṁ, dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṁ sattantarā, bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthu desetabbaṁ anārambhaṁ saparikkamanaṁ. Sārambhe ce bhikkhu vatthusmiṁ aparikkamane saññācikāya kuṭiṁ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṁ vā atikkāmeyya, saṅghādiseso.
+Saññācikāya pana bhikkhunā kuṭiṁ kārayamānena assāmikaṁ att'uddesaṁ pamāṇikā kāretabbā, tatridaṁ pamāṇaṁ, dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṁ sattantarā, bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthuṁ desetabbaṁ anārambhaṁ saparikkamanaṁ. Sārambhe ce bhikkhu vatthusmiṁ aparikkamane saññācikāya kuṭiṁ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṁ vā atikkāmeyya, saṅghādiseso.
 
 #+end_src
 
@@ -271,7 +271,7 @@ Saññācikāya pana bhikkhunā kuṭiṁ kārayamānena assāmikaṁ att'uddesa
 \pdfbookmark[2]{Saṅghādisesa 7}{sd7}
 \subsection*{\hyperref[comm7]{Saṅghādisesa 7: Vihārakārasikkhāpadaṁ}}
 \label{sd7}
-Mahallakaṁ pana bhikkhunā vihāraṁ kārayamānena sassāmikaṁ att'uddesaṁ bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthu desetabbaṁ anārambhaṁ saparikkamanaṁ. Sārambhe ce bhikkhu vatthusmiṁ aparikkamane mahallakaṁ vihāraṁ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, saṅghādiseso.
+Mahallakaṁ pana bhikkhunā vihāraṁ kārayamānena sassāmikaṁ att'uddesaṁ bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthuṁ desetabbaṁ anārambhaṁ saparikkamanaṁ. Sārambhe ce bhikkhu vatthusmiṁ aparikkamane mahallakaṁ vihāraṁ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, saṅghādiseso.
 
 #+end_src
 
@@ -281,7 +281,7 @@ Mahallakaṁ pana bhikkhunā vihāraṁ kārayamānena sassāmikaṁ att'uddesa�
 \pdfbookmark[2]{Saṅghādisesa 8}{sd8}
 \subsection*{\hyperref[comm8]{Saṅghādisesa 8: Duṭṭhadosasikkhāpadaṁ}}
 \label{sd8}
-Yo pana bhikkhu bhikkhuṁ duṭṭho doso appatīto amūlakena pārājikena dhammena anuddhaṁseyya “app'eva nāma naṁ imamhā brahmacariyā cāveyya”nti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā amūlakañ'c'eva taṁ adhikaraṇaṁ hoti, bhikkhu ca dosaṁ patiṭṭhāti, saṅghādiseso.
+Yo pana bhikkhu bhikkhuṁ duṭṭho doso appatīto amūlakena pārājikena dhammena anuddhaṁseyya “app'eva nāma naṁ imamhā brahmacariyā cāveyya”nti, tato aparena samayena samanuggāhiyamāno vā asamanuggāhiyamāno vā amūlakañ'c'eva taṁ adhikaraṇaṁ hoti, bhikkhu ca dosaṁ patiṭṭhāti, saṅghādiseso.
 
 #+end_src
 
@@ -291,7 +291,7 @@ Yo pana bhikkhu bhikkhuṁ duṭṭho doso appatīto amūlakena pārājikena dha
 \pdfbookmark[2]{Saṅghādisesa 9}{sd9}
 \subsection*{\hyperref[comm9]{Saṅghādisesa 9: Aññabhāgiyasikkhāpadaṁ}}
 \label{sd9}
-Yo pana bhikkhu bhikkhuṁ duṭṭho doso appatīto aññabhāgiyassa adhikaraṇassa kiñcidesaṁ lesamattaṁ upādāya pārājikena dhammena anuddhaṁseyya “app'eva nāma naṁ imamhā brahmacariyā cāveyya”nti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā aññabhāgiyañ'c'eva taṁ adhikaraṇaṁ hoti kocideso lesamatto upādinno, bhikkhu ca dosaṁ patiṭṭhāti, saṅghādiseso.
+Yo pana bhikkhu bhikkhuṁ duṭṭho doso appatīto aññabhāgiyassa adhikaraṇassa kiñcidesaṁ lesamattaṁ upādāya pārājikena dhammena anuddhaṁseyya “app'eva nāma naṁ imamhā brahmacariyā cāveyya”nti, tato aparena samayena samanuggāhiyamāno vā asamanuggāhiyamāno vā aññabhāgiyañ'c'eva taṁ adhikaraṇaṁ hoti kocideso lesamatto upādinno, bhikkhu ca dosaṁ patiṭṭhāti, saṅghādiseso.
 
 #+end_src
 
@@ -1982,7 +1982,7 @@ Parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṁ dhārayāmi.
 \label{sekh}
 
 \begin{intro}
-  Ime kho pan'āyasmanto sekhiyā dhammā uddesaṃ āgacchanti.
+  Ime kho pan'āyasmanto sekhiyā dhammā uddesaṁ āgacchanti.
 \end{intro}
 
 \setsubsecheadstyle{\subsectionFmt}
@@ -5697,7 +5697,7 @@ Etaṁ buddhāna'sāsanan'ti
 \section{Saṅkhittapātimokkh'uddeso}
 \label{sankhittapatimokkh'uddeso}
 TODO: append pali word for conclusion
-Uddiṭṭhaṃ kho āyasmanto nidānaṃ, uddiṭṭhā cattāro pārājikā dhammā, uddiṭṭhā terasa saṅghādisesā dhammā, uddiṭṭhā dve aniyatā dhammā. Sutā kho pan'āyasmantehi terasa saṅghādisesā dhammā, dve aniyatā dhammā, tiṃsa nissaggiyā pācittiyā dhammā, dvenavuti pācittiyā dhammā, cattāro pāṭidesanīyā dhammā, pañcasattati sekhiyā dhammā, satta adhikaraṇasamathā dhammā, ettakaṃ tassa bhagavato sutt'āgataṃ suttapariyāpannaṃ, anvaḍḍhamāsaṃ uddesaṃ āgacchati, tattha sabbeh'eva samaggehi sammodamānehi avivadamānehi sikkhitabban-ti.
+Uddiṭṭhaṁ kho āyasmanto nidānaṁ, uddiṭṭhā cattāro pārājikā dhammā, uddiṭṭhā terasa saṅghādisesā dhammā, uddiṭṭhā dve aniyatā dhammā. Sutā kho pan'āyasmantehi terasa saṅghādisesā dhammā, dve aniyatā dhammā, tiṁsa nissaggiyā pācittiyā dhammā, dvenavuti pācittiyā dhammā, cattāro pāṭidesanīyā dhammā, pañcasattati sekhiyā dhammā, satta adhikaraṇasamathā dhammā, ettakaṁ tassa bhagavato sutt'āgataṁ suttapariyāpannaṁ, anvaḍḍhamāsaṁ uddesaṁ āgacchati, tattha sabbeh'eva samaggehi sammodamānehi avivadamānehi sikkhitabban-ti.
 
 \begin{outro}
 Bhikkhupātimokkhaṁ niṭṭhitaṁ
@@ -5726,23 +5726,23 @@ Venerables, the introduction has been recited, the four cases involving disquali
 ** Burmese Pubbakicca
 #+begin_src latex :tangle ./manuscript/tex/burmese-pubbakicca.tex
 
-Pubbakaraṇaṃ:\\
-Sammajjanī padīpo ca, udakaṃ āsanena ca;\\
+Pubbakaraṇaṁ:\\
+Sammajjanī padīpo ca, udakaṁ āsanena ca;\\
 Uposathassa etāni, pubbakaraṇan-ti vuccati.\\
 
 \smallskip
 
-Pubbakiccaṃ:\\
-Chandapārisuddhi, utu'kkhānaṃ, bhikkhugaṇanā ca ovādo;\\
+Pubbakiccaṁ:\\
+Chandapārisuddhi, utu'kkhānaṁ, bhikkhugaṇanā ca ovādo;\\
 Uposathassa etāni, pubbakiccan-ti vuccati.\\
 
 \smallskip
 
 Pattakalla-aṅgā:\\
 Uposatho yāvatikā ca bhikkhū kammappattā; Sabhāg'āpattiyo ca na vijjanti;
-Vajjanīyā ca puggalā tasmiṃ na honti, pattakallan-ti vuccati.
+Vajjanīyā ca puggalā tasmiṁ na honti, pattakallan-ti vuccati.
 Pubbakaraṇapubbakiccāni samāpetvā desitāpattikassa samaggassa
-bhikkhusaṅghassa anumatiyā pātimokkhaṃ uddisituṃ ārādhanaṃ
+bhikkhusaṅghassa anumatiyā pātimokkhaṁ uddisituṁ ārādhanaṁ
 karoma.
 
 \bigskip
@@ -5755,102 +5755,102 @@ The observance, whatever bhikkhus are entitled (to carry out the legal) act, com
 
 #+end_src
 
-** Sri Kaḷyāṇi Yogāshrama Saṃsṭhāva Pubbakicca
+** Sri Kaḷyāṇi Yogāshrama Saṁsṭhāva Pubbakicca
 #+begin_src latex :tangle ./manuscript/tex/sri-kalyani-pubbakicca.tex
 
 (Vinayapucchāsammuti:) Namo tassa bhagavato arahato sammā sambuddhassa. (3x)
 
-(Ñatti:) Suṇātu me, bhante, saṅgho. Yadi saṅghassa pattakallaṃ, ahaṃ itthan'nāmaṃ bhikkhuṃ (i.e., āyasmantaṃ…) vinayaṃ puccheyyaṃ.
+(Ñatti:) Suṇātu me, bhante, saṅgho. Yadi saṅghassa pattakallaṁ, ahaṁ itthan'nāmaṁ bhikkhuṁ (i.e., āyasmantaṁ…) vinayaṁ puccheyyaṁ.
 
 (Vinayavissajjanasammuti:) Namo tassa bhagavato arahato sammāsambuddhassa.
 
-(Ñatti:) Suṇātu me bhante saṅgho. Yadi saṅghassa pattakallaṃ, ahaṃ itthan-nāmena bhikkhunā [i.e., āyasmatā …] vinayaṃ puṭṭho vissajjeyyaṃ.
+(Ñatti:) Suṇātu me bhante saṅgho. Yadi saṅghassa pattakallaṁ, ahaṁ itthan-nāmena bhikkhunā [i.e., āyasmatā …] vinayaṁ puṭṭho vissajjeyyaṁ.
 
-(Pubbakaraṇa-pucchā-vissajjanā:) (Pucchako:) Sammajjanī padīpo ca, udakaṃ āsanena ca,  uposathassa etāni pubbakaraṇan’ti vuccati. Okāsa, sammajjanī: Sammajjanakaraṇaṃ kataṃ kiṃ?
+(Pubbakaraṇa-pucchā-vissajjanā:) (Pucchako:) Sammajjanī padīpo ca, udakaṁ āsanena ca,  uposathassa etāni pubbakaraṇan’ti vuccati. Okāsa, sammajjanī: Sammajjanakaraṇaṁ kataṁ kiṁ?
 
-(Vissajjako:) Sammajjanakaraṇaṃ niṭṭhitaṃ.
+(Vissajjako:) Sammajjanakaraṇaṁ niṭṭhitaṁ.
 
-(Puc.:) Padīpo ca: padīpujjalanaṃ kataṃ kiṃ?
+(Puc.:) Padīpo ca: padīpujjalanaṁ kataṁ kiṁ?
 
-(Vis.:)Padīpujjalanaṃ niṭṭhitaṃ. [or:] Idāni pana suriy'ālokassa atthitāya
-padīpakiccaṃ idha n’atthi.
+(Vis.:)Padīpujjalanaṁ niṭṭhitaṁ. [or:] Idāni pana suriy'ālokassa atthitāya
+padīpakiccaṁ idha n’atthi.
 
-(Puc.:)Udakaṃ āsanena ca: Āsanena saha pānīyaparibhojanīya-
-udakaṭṭhapanaṃ kataṃ kiṃ?
+(Puc.:)Udakaṁ āsanena ca: Āsanena saha pānīyaparibhojanīya-
+udakaṭṭhapanaṁ kataṁ kiṁ?
 
-(Vis.:) Āsanena saha pānīyaparibhojanīya-udakaṭṭhapanaṃ niṭṭhitaṃ.
+(Vis.:) Āsanena saha pānīyaparibhojanīya-udakaṭṭhapanaṁ niṭṭhitaṁ.
 
-(Puc.:) Uposathassa etāni pubbakaraṇan’ti vuccati kiṃ?
+(Puc.:) Uposathassa etāni pubbakaraṇan’ti vuccati kiṁ?
 
 (Vis.:) Etāni cattāri vattāni sammajjanakaraṇādīni saṅghasannipātato
-paṭhamaṃ kattabbattā, uposathassa uposathakammassa pubbakaraṇan-ti
+paṭhamaṁ kattabbattā, uposathassa uposathakammassa pubbakaraṇan-ti
 vuccati. Pubbakaraṇānī'ti akkhātāni.
 
 (Pubbakicca-pucchā-vissajjanā:)2
 
-(Puc.:) Chandapārisuddhi utu'kkhānaṃ, bhikkhugaṇanā ca ovādo,
+(Puc.:) Chandapārisuddhi utu'kkhānaṁ, bhikkhugaṇanā ca ovādo,
 uposathassa etāni pubbakiccan-ti vuccati.
-Chandapārisuddhi: Chandārahānaṃ bhikkhūnaṃ chandapārisuddhi-
-āharaṇaṃ kataṃ kiṃ?
+Chandapārisuddhi: Chandārahānaṁ bhikkhūnaṁ chandapārisuddhi-
+āharaṇaṁ kataṁ kiṁ?
 
-(Vis.:) Chandapārisuddhi-āharaṇaṃ niṭṭhitaṃ. (or:) Idha n’atthi.
+(Vis.:) Chandapārisuddhi-āharaṇaṁ niṭṭhitaṁ. (or:) Idha n’atthi.
 
-(Puc.:) Utu'kkhānaṃ: Hemantādīnaṃ tiṇṇaṃ utūnaṃ ettakaṃ
-atikkantaṃ ettakaṃ avasiṭṭhan’ti. Evaṃ utu-ācikkhanaṃ kataṃ kiṃ?
+(Puc.:) Utu'kkhānaṁ: Hemantādīnaṁ tiṇṇaṁ utūnaṁ ettakaṁ
+atikkantaṁ ettakaṁ avasiṭṭhan’ti. Evaṁ utu-ācikkhanaṁ kataṁ kiṁ?
 
-(Vis.:) Utūn'īdha pana sāsane hemanta-gimha-vassānānaṃ vasena tīṇi
-honti. Ayaṃ hemanta-/gimha-/vassāna-utu. Asmiṃ utumhi aṭṭha (dasa)
+(Vis.:) Utūn'īdha pana sāsane hemanta-gimha-vassānānaṁ vasena tīṇi
+honti. Ayaṁ hemanta-/gimha-/vassāna-utu. Asmiṁ utumhi aṭṭha (dasa)
 uposathā. Iminā pakkhena eko uposatho sampatto, … uposatho/ā
 atikkanto/ā, … uposathā avasiṭṭho/ā.
 
-(Puc.:)Bhikkhugaṇanā ca: Imasmiṃ uposath'agge sannipatitānaṃ
-bhikkhūnaṃ gaṇanā, kittakā bhikkhū honti?
+(Puc.:)Bhikkhugaṇanā ca: Imasmiṁ uposath'agge sannipatitānaṁ
+bhikkhūnaṁ gaṇanā, kittakā bhikkhū honti?
 
-(Vis.:)Asmiṃ uposath'agge sannipatitānaṃ bhikkhūnaṃ gaṇanā cattāro/
+(Vis.:)Asmiṁ uposath'agge sannipatitānaṁ bhikkhūnaṁ gaṇanā cattāro/
 pañca … bhikkhū honti.
 
-(Puc.:) Ovādo: Bhikkhunīnaṃ ovādo dātabbo dinno kiṃ?
+(Puc.:) Ovādo: Bhikkhunīnaṁ ovādo dātabbo dinno kiṁ?
 
-(Vis.:) Idāni pana tāsaṃ n’atthitāya, so ca ovādo idha n’atthi.
+(Vis.:) Idāni pana tāsaṁ n’atthitāya, so ca ovādo idha n’atthi.
 
-(Puc.:) Uposathassa etāni pubbakiccan’ti vuccati kiṃ?
+(Puc.:) Uposathassa etāni pubbakiccan’ti vuccati kiṁ?
 
 (Vis.:) Etāni pañcakammāni chand'āharaṇādīni pātimokkhuddesato
-paṭhamaṃ kattabbattā, uposathassa uposathakammassa pubbakiccan-ti
+paṭhamaṁ kattabbattā, uposathassa uposathakammassa pubbakiccan-ti
 vuccati. Pubbakiccānī'ti akkhātāni.
 
 (Pattakalla-pucchā-vissajjanā:)2
 
 (Puc.:) Uposatho yāvatikā ca bhikkhū kammappattā sabhāg'āpattiyo ca na
-vijjanti, vajjanīyā ca puggalā tasmiṃ na honti pattakallan-ti vuccati.
+vijjanti, vajjanīyā ca puggalā tasmiṁ na honti pattakallan-ti vuccati.
 Uposatho: Tīsu uposathadivasesu cātuddasī paṇṇarasī, sāmaggīsu,
 ajj’uposatho ko uposatho?
 
 (Vis.:) Ajj’uposatho cātuddaso/paṇṇaraso.
 
-(Puc.:) Yāvatikā ca bhikkhū kammappattā'ti kiṃ?
+(Puc.:) Yāvatikā ca bhikkhū kammappattā'ti kiṁ?
 
 (Vis.:) Yattakā bhikkhū tassa uposathakammassa pattā, yuttā, anurūpā,
 sabbantimena paricchedena cattāro bhikkhū pakatattā, saṅghena
-anukkhittā, te ca kho hatthapāsaṃ avijahitvā ekasīmāyaṃ ṭhitā.
+anukkhittā, te ca kho hatthapāsaṁ avijahitvā ekasīmāyaṁ ṭhitā.
 
-(Puc.:) Sabhāg'āpattiyo ca na vijjanti kiṃ?
+(Puc.:) Sabhāg'āpattiyo ca na vijjanti kiṁ?
 
 (Vis.:) vikālabhojan'ādi- vatthu sabhāg'āpattiyo ca na vijjanti.
 
-(Puc.:) Vajjanīyā ca puggalā tasmiṃ na honti kiṃ?
+(Puc.:) Vajjanīyā ca puggalā tasmiṁ na honti kiṁ?
 
 (Vis.:) Gahaṭṭha-paṇḍakādayo, ekavīsati vajjanīyā puggalā, hatthapāsato
-bahikaraṇavasena vajjetabbā. Te asmiṃ na honti.
+bahikaraṇavasena vajjetabbā. Te asmiṁ na honti.
 
-(Puc.:) Pattakallan-ti vuccati kiṃ?
+(Puc.:) Pattakallan-ti vuccati kiṁ?
 
-(Vis.:) Saṅghassa uposathakammaṃ imehi catūhi lakkhaṇehi saṅgahitaṃ
-pattakallan-ti vuccati: Pattakālavantan892–ti akkhātaṃ.
+(Vis.:) Saṅghassa uposathakammaṁ imehi catūhi lakkhaṇehi saṅgahitaṁ
+pattakallan-ti vuccati: Pattakālavantan892–ti akkhātaṁ.
 
 (Árádhana:)
 (Vis.:) Pubbakaraṇapubbakiccāni samāpetvā desitāpattikassa samaggassa
-bhikkhusaṅghassa anumatiyā pātimokkhaṃ uddisituṃ ārādhanaṃ
+bhikkhusaṅghassa anumatiyā pātimokkhaṁ uddisituṁ ārādhanaṁ
 karomi.
 
 \clearpage
