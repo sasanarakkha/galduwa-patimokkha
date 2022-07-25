@@ -15,13 +15,13 @@ NINECOLORS_URL = https://mirrors.ctan.org/macros/latex/contrib/ninecolors.zip
 
 
 # EPUB varaibles derived from https://github.com/daniel-j/epubmake
-RELEASENAME   := "Galduva Bhikkhupātimokkha"
+RELEASENAME   := "Galduwa Bhikkhupātimokkha"
 CURRENTEPUB   := ./manuscript/current-patimokkha.epub
 SOURCE        := ./manuscript/
 EXTRACTSOURCE := ./
-EPUBFILE      := ./build/Galduva Bhikkhupātimokkha.epub
-KINDLEFILE    := ./build/Galduva Bhikkhupātimokkha.mobi
-AZW3FILE      := ./build/Galduva Bhikkhupātimokkha.azw3
+EPUBFILE      := ./build/Galduwa Bhikkhupātimokkha.epub
+KINDLEFILE    := ./build/Galduwa Bhikkhupātimokkha.mobi
+AZW3FILE      := ./build/Galduwa Bhikkhupātimokkha.azw3
 
 
 EPUBCHECK := ./assets/tools/epubcheck/epubcheck.jar
@@ -66,10 +66,10 @@ dist:
 
 pdf:
 	@echo "Tangling org document..."
-	@org-tangle ./galduva-patimokkha.tex.org
+	@org-tangle ./galduwa-patimokkha.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/Galduva Bhikkhupātimokkha.pdf"
+	mv -f $(FILE).pdf "./build/Galduwa Bhikkhupātimokkha.pdf"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -77,12 +77,12 @@ pdf:
 
 pdf2x:
 	@echo "Tangling org document..."
-	@org-tangle ./galduva-patimokkha.tex.org
+	@org-tangle ./galduwa-patimokkha.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@echo "Second run..."
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/Galduva Bhikkhupātimokkha.pdf"
+	mv -f $(FILE).pdf "./build/Galduwa Bhikkhupātimokkha.pdf"
 
 
 #-----------------------------------------------------------------------------------------#
