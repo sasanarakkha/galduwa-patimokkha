@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2022.3.26)  25 JUL 2022 11:34
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2022.3.26)  25 JUL 2022 12:02
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -2554,4 +2554,72 @@ LaTeX Font Info:    Font shape `U/ccicons/m/n' will be
 ] [126
 
 ]
-warning  (file ./back-cover-compre
+warning  (file ./back-cover-compressed.jpg) (readjpg): Exif resolution 300dpi x 
+300dpi differs from the input resolution 72dpi x 72dpi
+<./back-cover-compressed.jpg, id=2154, 421.0932pt x 597.432pt>
+File: ./back-cover-compressed.jpg Graphic file (type jpg)
+<use ./back-cover-compressed.jpg>
+Package luatex.def Info: ./back-cover-compressed.jpg  used on input line 143.
+(luatex.def)             Requested size: 421.18211pt x 597.50787pt.
+[127
+
+<./back-cover-compressed.jpg
+warning  (readjpg): Exif resolution 300dpi x 300dpi differs from the input resol
+ution 72dpi x 72dpi
+>] 
+AED: pageslts setting LastPage 
+(/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
+File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/se-utf32be.def
+File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
+)
+No complaints by nag.
+\tf@toc=\write7
+
+\openout7 = main.toc
+\c@pagesLTS.arabic.1.local.count=\count467
+
+AED: pageslts setting VeryLastPage via AfterLastShipout 
+
+AED: pageslts setting LastPages via AfterLastShipout 
+
+
+Package pageslts Info: Total number of pages is odd.
+
+
+(./main.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.72pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+)
+
+Here is how much of LuaTeX's memory you used:
+ 47955 strings out of 477800
+ 125197,1977958 words of node,token memory allocated
+ 1516 words of node memory still in use:
+   5 hlist, 1 vlist, 1 rule, 1 local_par, 4 glue, 3 kern, 1 penalty, 4 glyph, 39
+ attribute, 221 glue_spec, 21 attribute_list, 7 write, 1 close, 9 pdf_action, 1 
+pdf_colorstack nodes
+   avail lists: 2:1375,3:765,4:161,5:651,6:89,7:6185,8:62,9:352,10:18,11:243,12:
+2
+ 65387 multiletter control sequences out of 65536+600000
+ 258 fonts using 38308207 bytes
+ 103i,13n,101p,2421b,833s stack positions out of 5000i,500n,10000p,200000b,80000s
+<./assets/fonts/LibertinusSerifX-Bold.ttf><./assets/fonts/LibertinusSerif-Italic
+.otf><./assets/fonts/LibertinusSerifX-Regular.ttf><./assets/fonts/palisbs.ttf></
+usr/local/texlive/2021/texmf-dist/fonts/type1/public/ccicons/ccicons.pfb>
+Output written on main.pdf (133 pages, 2003997 bytes).
+
+PDF statistics: 3694 PDF objects out of 4296 (max. 8388607)
+ 1909 compressed objects within 20 object streams
+ 1044 named destinations out of 1200 (max. 131072)
+ 3925 words of extra memory for PDF output out of 10000 (max. 100000000)
+
