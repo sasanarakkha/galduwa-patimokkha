@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2022.3.26)  25 JUL 2022 12:02
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2022.3.26)  25 JUL 2022 12:04
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -2596,9 +2596,6 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 )
 
 Here is how much of LuaTeX's memory you used:
@@ -2608,7 +2605,7 @@ Here is how much of LuaTeX's memory you used:
    5 hlist, 1 vlist, 1 rule, 1 local_par, 4 glue, 3 kern, 1 penalty, 4 glyph, 39
  attribute, 221 glue_spec, 21 attribute_list, 7 write, 1 close, 9 pdf_action, 1 
 pdf_colorstack nodes
-   avail lists: 2:1375,3:765,4:161,5:651,6:89,7:6185,8:62,9:352,10:18,11:243,12:
+   avail lists: 2:1375,3:766,4:161,5:651,6:89,7:6185,8:62,9:352,10:18,11:243,12:
 2
  65387 multiletter control sequences out of 65536+600000
  258 fonts using 38308207 bytes
