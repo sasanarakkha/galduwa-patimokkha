@@ -2312,4 +2312,246 @@ File: ls2stixtt.fd 2015/04/17 v1.1.2-latex STIX typewriter LS2 font definitions
 
 )
 (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.5> not available
+(Font)              size <7> substituted on input line 45.
+
+) [3
+
+]
+Inserting `luaotfload.letterspace' at position 2 in `pre_linebreak_filter'.
+Inserting `luaotfload.letterspace' at position 3 in `hpack_filter'.
+LaTeX Font Info:    Calculating math sizes for size <19> on input line 73.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <19> not available
+(Font)              size <17.28> substituted on input line 73.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13.29994> not available
+(Font)              size <14.4> substituted on input line 73.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <9.5> not available
+(Font)              size <9> substituted on input line 73.
+
+(./main.toc [4
+
+]
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 56.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 56.
+
+[5]) [6]
+\c@pagesLTS.roman.1.local.count=\count463
+\c@pagesLTS.pnc.arabic=\count464
+\c@pagesLTS.double.arabic=\count465
+\c@pagesLTS.current.local.arabic=\count466
+ (./manuscript/tex/pali/pubbakicca.tex
+warning  (file ./assets/photos/300dpi//appendix-compressed.jpg) (readjpg): Exif 
+resolution 300dpi x 300dpi differs from the input resolution 72dpi x 72dpi
+<./assets/photos/300dpi//appendix-compressed.jpg, id=257, 421.0932pt x 597.432p
+t>
+File: ./assets/photos/300dpi//appendix-compressed.jpg Graphic file (type jpg)
+<use ./assets/photos/300dpi//appendix-compressed.jpg>
+Package luatex.def Info: ./assets/photos/300dpi//appendix-compressed.jpg  used 
+on input line 5.
+(luatex.def)             Requested size: 433.2168pt x 614.57951pt.
+[1
+
+
+
+<./assets/photos/300dpi//appendix-compressed.jpg
+warning  (readjpg): Exif resolution 300dpi x 300dpi differs from the input resol
+ution 72dpi x 72dpi
+>]
+LaTeX Font Info:    Calculating math sizes for size <15> on input line 7.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
+(Font)              size <14.4> substituted on input line 7.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <10.49995> not available
+(Font)              size <10.95> substituted on input line 7.
+
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [2
+
+]) (./manuscript/tex/pali/nidan'uddeso.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [3
+
+]) (./manuscript/tex/pali/parajika.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [4
+
+] [5]) (./manuscript/tex/pali/sanghadisesa.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [6
+
+] [7] [8] [9] [10] [11]) (./manuscript/tex/pali/aniyata.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [12
+
+] [13]) (./manuscript/tex/pali/nissaggiya-pacittiya.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [14
+
+] [15] [16] [17] [18] [19] [20] [21])
+(./manuscript/tex/pali/pacittiya.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [22
+
+] [23] [24] [25] [26
+warning  (pdf backend): ignoring duplicate destination with the name 'pac31.3'
+] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38])
+(./manuscript/tex/pali/patidesaniya.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [39
+
+] [40]) (./manuscript/tex/pali/sekhiya.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [41
+
+] [42] [43] [44] [45] [46] [47] [48] [49])
+(./manuscript/tex/pali/adhikaranasamatha.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [50
+
+]) (./manuscript/tex/pali/patimokkhanitthana.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [51
+
+]) (./manuscript/tex/english/preliminary-duties.tex
+File: ./assets/photos/300dpi//appendix-compressed.jpg Graphic file (type jpg)
+<use ./assets/photos/300dpi//appendix-compressed.jpg>
+Package luatex.def Info: ./assets/photos/300dpi//appendix-compressed.jpg  used 
+on input line 5.
+(luatex.def)             Requested size: 433.2168pt x 614.57951pt.
+ [52
+
+
+
+]
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [53
+
+] [54] [55]) (./manuscript/tex/english/introduction.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [56
+
+] [57]) (./manuscript/tex/english/disqualifications.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [58
+
+] [59]) (./manuscript/tex/english/community-meetings.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [60
+
+] [61] [62] [63] [64] [65] [66] [67])
+(./manuscript/tex/english/uncertain-cases.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [68
+
+] [69]) (./manuscript/tex/english/forfeiture-expiations.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [70
+
+] [71] [72] [73] [74] [75] [76] [77] [78] [79])
+(./manuscript/tex/english/expiations.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [80
+
+] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92]
+[93] [94] [95] [96] [97] [98] [99] [100])
+(./manuscript/tex/english/acknowledgments.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [101
+
+] [102]) (./manuscript/tex/english/trainings.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [103
+
+] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113])
+(./manuscript/tex/english/settlements.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [114
+
+]) (./manuscript/tex/english/conclusion.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [115
+
+]) (./manuscript/tex/post-patimokkha.tex
+File: ./assets/photos/300dpi//appendix-compressed.jpg Graphic file (type jpg)
+<use ./assets/photos/300dpi//appendix-compressed.jpg>
+Package luatex.def Info: ./assets/photos/300dpi//appendix-compressed.jpg  used 
+on input line 5.
+(luatex.def)             Requested size: 433.2168pt x 614.57951pt.
+ [116
+
+
+])
+(./manuscript/tex/post/pubba-bhaga.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [117
+
+]) (./manuscript/tex/post/siluddesa.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [118
+
+]) (./manuscript/tex/post/tayana-gatha.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [119
+
+]) (./manuscript/tex/post/ovada-patimokkha.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [120
+
+]) (./manuscript/tex/appendix.tex
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 3.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 3.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 3.
+
+File: ./assets/photos/300dpi//appendix-compressed.jpg Graphic file (type jpg)
+<use ./assets/photos/300dpi//appendix-compressed.jpg>
+Package luatex.def Info: ./assets/photos/300dpi//appendix-compressed.jpg  used 
+on input line 5.
+(luatex.def)             Requested size: 433.2168pt x 614.57951pt.
+[121
+
+
+]) (./manuscript/tex/in-brief.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [122
+
+]
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
+88.pgf) [123
+
+]) (./main.ent) (./manuscript/tex/copyright-details.tex [124
+
+
+
+]
+LaTeX Font Info:    Font shape `U/ccicons/m/n' will be
+(Font)              scaled to size 25.0pt on input line 14.
+)
+[125
+
+] [126
+
+]
+warning  (file ./back-cover-compre
