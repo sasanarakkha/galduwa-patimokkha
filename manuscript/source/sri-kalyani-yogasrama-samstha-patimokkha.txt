@@ -121,7 +121,7 @@ Evañ'ca pana so bhikkhu bhikkhūhi vuccamāno tath'eva paggaṇheyya, so bhikkh
 
 13. Bhikkhu pan'eva aññataraṁ gāmaṁ vā nigamaṁ vā upanissāya viharati, kuladūsako pāpasamācāro, tassa kho pāpakā samācārā dissanti c'eva suyyanti ca kulāni ca tena duṭṭhāni dissanti c'eva suyyanti ca, so bhikkhu bhikkhūhi evam'assa vacanīyo: “āyasmā kho kuladūsako pāpasamācāro, āyasmato kho pāpakā samācārā dissanti c'eva suyyanti ca kulāni c'āyasmatā duṭṭhāni dissanti c'eva suyyanti ca. Pakkamat'āyasmā imamhā āvāsā. Alante idha vāsenā”ti. Evañ'ca pana so bhikkhu bhikkhūhi vuccamāno te bhikkhū evaṁ vadeyya: “Chandagāmino ca bhikkhū dosagāmino ca bhikkhū mohagāmino ca bhikkhū bhayagāmino ca bhikkhū. Tādisikāya āpattiyā ekaccaṁ pabbājenti ekaccaṁ na pabbājentī”ti, so bhikkhu bhikkhūhi evam'assa vacanīyo: “Mā, āyasmā, evaṁ avaca. Na ca bhikkhū chandagāmino na ca bhikkhū dosagāmino na ca bhikkhū mohagāmino na ca bhikkhū bhayagāmino. āyasmā kho kuladūsako pāpasamācāro, āyasmato kho pāpakā samācārā dissanti c'eva suyyanti ca kulāni c'āyasmatā uṭṭhāni dissanti c'eva suyyanti ca. Pakkamat'āyasmā imamhā āvāsā. Alante idha vāsenā”ti. Evañ'ca pana so bhikkhu bhikkhūhi vuccamāno tath'eva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṁ samanubhāsitabbo tassa paṭinissaggāya. Yāvatatiyañ'ce samanubhāsiyamāno taṁ paṭinissajjeyya, icc'etaṁ kusalaṁ. No ce paṭinissajjeyya, saṅghādiseso.
 
-Uddiṭṭhā kho, āyasmanto, terasa saṅghādisesā dhammā, nava paṭhamāpattikā cattāro yāvatatiyakā. Yesaṁ bhikkhu aññataraṁ vā aññataraṁ vā āpajjitvā yāvatihaṁ jānaṁ paṭicchādeti tāvatihaṁ tena bhikkhunā, akāmā, parivatthabbaṁ. Parivutthaparivāsena bhikkhunā uttariṁ chārattaṁ bhikkhumānattāya paṭipajjitabbaṁ. Ciṇṇamānatto bhikkhu yattha siyā vīsatigaṇo bhikkhusaṅgho tattha so bhikkhu abbhetabbo. Ekena'pi ce ūno vīsatigaṇo bhikkhusaṅgho taṁ bhikkhuṁ abbheyya so ca bhikkhu anabbhito te ca bhikkhū gārayhā. Ayaṁ tattha sāmīci.
+Uddiṭṭhā kho, āyasmanto, terasa saṅghādisesā dhammā, nava paṭham'āpattikā cattāro yāvatatiyakā. Yesaṁ bhikkhu aññataraṁ vā aññataraṁ vā āpajjitvā yāvatihaṁ jānaṁ paṭicchādeti tāvatihaṁ tena bhikkhunā, akāmā, parivatthabbaṁ. Parivutthaparivāsena bhikkhunā uttariṁ chārattaṁ bhikkhumānattāya paṭipajjitabbaṁ. Ciṇṇamānatto bhikkhu yattha siyā vīsatigaṇo bhikkhusaṅgho tattha so bhikkhu abbhetabbo. Ekena'pi ce ūno vīsatigaṇo bhikkhusaṅgho taṁ bhikkhuṁ abbheyya so ca bhikkhu anabbhito te ca bhikkhū gārayhā. Ayaṁ tattha sāmīci.
 
 Tatth'āyasmante pucchāmi: `Kacci'ttha parisuddhā?' Dutiyam'pi pucchāmi: `Kacci'ttha parisuddhā?' Tatiyam'pi pucchāmi: `Kacci'ttha parisuddhā?' Parisuddh'etth'āyasmanto, tasmā tuṇhī. Evametaṁ dhārayāmi.
 
@@ -805,7 +805,7 @@ P: “Utukkhānaṁ : hemantādīnaṁ tiṇṇaṁ utūnaṁ ettakaṁ atikkant
 
 (The announcement of the season: [in one] of the three seasons, i. e. the cold season, etc. , this number (of Observances) have passed and this number are left thus, has the announcement of the season been done?)
 
-V: “Utūnīdha pana Sāsane hemantagimhavassānānaṁ vasena tīṇi honti. Ayaṁ hemantautu (/gimhānautu/ vassāna utu). Imasmiṁ utumhi aṭṭha uposathā. Iminā pakkhena eko uposatho sampatto dve uposathāatikkantā pañca uposathā avasiṭṭhā. ”
+V: “Utūnīdha pana Sāsane hemantagimhavassānānaṁ vasena tīṇi honti. Ayaṁ hemantautu (/gimhānautu/ vassāna utu). Imasmiṁ utumhi aṭṭha uposathā. Iminā pakkhena eko uposatho sampatto dve uposathā atikkantā pañca uposathā avasiṭṭhā. ”
 
 (There are three seasons in this Teaching, namely, the cold, hot and rainy seasons. This is the cold (/hot/rainy season). In this season there are eight Observances. With this lunar half month one Observance has arrived, two Observances have passed [and] five Observances are left [to come]. )
 
@@ -960,13 +960,13 @@ For each Observance within a season recite as follows:
 
 2nd Observance in the season: “eko uposatho sampatto eko uposatho atikkanto cha uposathā avasiṭṭhā. ”
 
-3rd Observance in the season: “eko uposatho sampatto dve uposathāatikkantā pañca uposathā avasiṭṭhā. ”
+3rd Observance in the season: “eko uposatho sampatto dve uposathā atikkantā pañca uposathā avasiṭṭhā. ”
 
-4th Observance in the season: “eko uposatho sampatto tayo uposathāatikkantā cattāro uposathā avasiṭṭhā. ”
+4th Observance in the season: “eko uposatho sampatto tayo uposathā atikkantā cattāro uposathā avasiṭṭhā. ”
 
-5th Observance in the season: “eko uposatho sampatto cattāro uposathāatikkantā tayo uposathā avasiṭṭhā. ”
+5th Observance in the season: “eko uposatho sampatto cattāro uposathā atikkantā tayo uposathā avasiṭṭhā. ”
 
-6th Observance in the season: “eko uposatho sampatto pañca uposathāatikkantā dve uposathā avasiṭṭhā. ”
+6th Observance in the season: “eko uposatho sampatto pañca uposathā atikkantā dve uposathā avasiṭṭhā. ”
 
 7th Observance in the season: “eko uposatho sampatto cha uposathā atikkantā eko uposatho avasiṭṭho. ”
 
@@ -986,7 +986,7 @@ For the season with the extra month:
 
 6th Observance in the season: “eko uposatho sampatto pañca uposathā atikkantā cattāro uposathā avasiṭṭhā. ”
 
-7th Observance in the season: “eko uposatho sampatto cha uposathāatikkantā tayo uposathā avasiṭṭhā. ”
+7th Observance in the season: “eko uposatho sampatto cha uposathā atikkantā tayo uposathā avasiṭṭhā. ”
 
 8th Observance in the season: “eko uposatho sampatto satta uposathā atikkantā dve uposathā avasiṭṭhā. ”
 
