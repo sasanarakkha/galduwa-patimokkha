@@ -14,4 +14,9 @@ jobs:
       contents: write
     steps:
       - uses: bergentroll/sasanarakkha-build-ebooks-action@v1
-        with: {}
+        with:
+          build_epub: false
+          build_mobi: false
+          build_azw3: false
+          validate_epub: false
+          optimize_epub: false
